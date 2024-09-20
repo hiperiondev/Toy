@@ -37,7 +37,7 @@ int test_bytecode_header(Toy_Bucket* bucket) {
 	return 0;
 }
 
-int main() {
+int test_main_bytecode() {
 	//run each test set, returning the total errors given
 	int total = 0, res = 0;
 

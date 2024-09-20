@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main() {
+int test_main_lexer() {
 	{
 		//source code sample to operate on
 		char* source = "print null;";

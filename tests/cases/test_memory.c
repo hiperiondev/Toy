@@ -135,7 +135,7 @@ int test_buckets() {
 	return 0;
 }
 
-int main() {
+int test_main_memory() {
 	//run each test set, returning the total errors given
 	int total = 0, res = 0;
 

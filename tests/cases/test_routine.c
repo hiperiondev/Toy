@@ -26,7 +26,7 @@ int test_routine_header(Toy_Bucket* bucket) {
 	return 0;
 }
 
-int main() {
+int test_main_routine() {
 	fprintf(stderr, TOY_CC_WARN "WARNING: Routine tests incomplete\n" TOY_CC_RESET);
 
 	//run each test set, returning the total errors given

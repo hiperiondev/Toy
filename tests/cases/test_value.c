@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main() {
+int test_main_value() {
 	//test for the correct size
 	{
 		if (sizeof(Toy_Value) != 8) {

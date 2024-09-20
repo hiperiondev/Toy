@@ -164,7 +164,7 @@ int test_type_emission(Toy_Bucket* bucket) {
 	return 0;
 }
 
-int main() {
+int test_main_ast() {
 	//run each test set, returning the total errors given
 	int total = 0, res = 0;
 
